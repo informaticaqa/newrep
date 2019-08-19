@@ -1,0 +1,103 @@
+{
+  "objectInfo" : {
+    "id" : "ciSvv3dYVydebE8bTdfTWV",
+    "name" : "VCS_Asset_MCT_Mapping_SQL_FF_1",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000Q0Z00000000002V"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Uses PC_Mapping_SQL_FF_1\r\n",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "epWX5qXr4GNfuGyuJxDAkt",
+    "name" : "SQL_Server_PodCertification",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000Q0B000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "SQL Server connection for Pod Certification Automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    }
+  }, {
+    "id" : "55q7GX2XZCPiRfYJw8QFAG",
+    "name" : "VCS_Asset_Mapping_SQL_FF_1",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000Q1700000000001R"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Pod Certification Task: Mapping has a src and a target. ",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  }, {
+    "id" : "3MUFpiqEmcbd22Guw03Pwi",
+    "name" : "TMS47W1264001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000Q25000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  }, {
+    "id" : "0sivECQJrA3fzV8ScJp6Yj",
+    "name" : "FF_PodCertification",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000Q0B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Flat File connection for Pod Certification Automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    }
+  } ]
+}
