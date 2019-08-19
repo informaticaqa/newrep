@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "9ZwTX0QKZPkkC4fvefQ3Sb",
+    "name" : "vcs",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "This folder contains assets for Pod Certification.",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
