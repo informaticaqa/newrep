@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "9vf3J3iTgiclz75qdvrHOm",
+    "id" : "aa8Uotrf4QRjj4K82orFIr",
     "name" : "VCS_Asset_MCT_Mapping_SQL_FF_1",
     "type" : "MTT",
     "metadata" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0Z00000000003N"
+        "repoHandle" : "01000Q0Z00000000003P"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Updated Desc",
+        "description" : "Uses PC_Mapping_SQL_FF_1\r\n",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
