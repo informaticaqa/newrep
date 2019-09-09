@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "6vQcGKsz28Rh7SmjPqULIk",
+    "id" : "1qiQ0Ck6mq8fOrjjNRkRA7",
     "name" : "VCS_Asset_LTF_FF_FF",
     "type" : "WORKFLOW",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0N000000000023"
+        "repoHandle" : "01000Q0N000000000024"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "3g9UL8YW0BWcoGZHK7PXcp",
+    "id" : "7rfgYW1hgHYkGdKI9SK1yJ",
     "name" : "VCS_Asset_LTF_Mapping_Task",
     "type" : "MTT",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0Z000000000044"
+        "repoHandle" : "01000Q0Z000000000047"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
