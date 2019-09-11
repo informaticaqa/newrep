@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1JUx1X9HLnjbf4aU6kpwWC",
+    "id" : "0x2jni7UQo9kaVVwPLNyir",
     "name" : "VCS_Asset_PCS_SQL_SQL_1",
     "type" : "PCS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O0K00000000000Q"
+        "repoHandle" : "01001O0K00000000000R"
       },
       "contextAttributes" : [ {
         "name" : "id",
