@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "6FKPDtVASYZkllWKU6KE66",
+    "id" : "6H0rz9Sjo1Yj87bD8XD5C7",
     "name" : "VCS_Asset_DRS_SQL_FF_1",
     "type" : "DRS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0G00000000005U"
+        "repoHandle" : "01002B0G00000000000R"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "epWX5qXr4GNfuGyuJxDAkt",
+    "id" : "6SEnN4SVlmrkyyOr4TxFWe",
     "name" : "SQL_Server_PodCertification",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0B000000000003"
+        "repoHandle" : "01002B0B0000000000UZ"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "0sivECQJrA3fzV8ScJp6Yj",
+    "id" : "7vRFNn4zuC7dYZcLAkEVIZ",
     "name" : "FF_PodCertification",
     "type" : "Connection",
     "metadata" : {
@@ -53,11 +53,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0B000000000002"
+        "repoHandle" : "01002B0B000000000009"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Flat File connection for Pod Certification Automation",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
