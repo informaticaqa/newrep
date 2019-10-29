@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "14emeyH6bsxbHXyd52urSo",
+    "id" : "9642Yhab1sFiSPUaXqcEW7",
     "name" : "VCS_Asset_Mapping_SQL_FF_1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q1700000000004J"
+        "repoHandle" : "01000Q1700000000004O"
       },
       "contextAttributes" : [ {
         "name" : "id",
