@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "gYlv2SKMAwcftXhZdkHYMZ",
+    "id" : "67n2tRlguyZgtUIAYKsIkd",
     "name" : "VCS_Asset_MCT_Mapping_SQL_FF_1",
     "type" : "MTT",
     "metadata" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0Z0000000000BL"
+        "repoHandle" : "01000Q0Z0000000000BP"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Updated Desc",
+        "description" : "Uses PC_Mapping_SQL_FF_1\r\n",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "14emeyH6bsxbHXyd52urSo",
+    "id" : "9642Yhab1sFiSPUaXqcEW7",
     "name" : "VCS_Asset_Mapping_SQL_FF_1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q1700000000004J"
+        "repoHandle" : "01000Q1700000000004O"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
