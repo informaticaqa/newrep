@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "54ODrKYxnK3cFmicZvVkUP",
+    "id" : "8xwpePU9LE3cxnttgsWCe7",
     "name" : "VCS_Asset_DSS_SQL_FF_1",
     "type" : "DSS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0I000000000067"
+        "repoHandle" : "01000Q0I000000000069"
       },
       "contextAttributes" : [ {
         "name" : "id",
