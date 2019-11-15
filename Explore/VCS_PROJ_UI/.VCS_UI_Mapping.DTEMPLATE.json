@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3N1F8unxhGOeH08m4zeu27",
+    "id" : "9Ov8WRzJQBEcDMOUg21duB",
     "name" : "VCS_UI_Mapping",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q1700000000005B"
+        "repoHandle" : "01000Q1700000000005Q"
       },
       "contextAttributes" : [ {
         "name" : "id",
