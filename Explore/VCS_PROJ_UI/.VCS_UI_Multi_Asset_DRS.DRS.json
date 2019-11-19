@@ -1,22 +1,22 @@
 {
   "objectInfo" : {
-    "id" : "4nHsE0zcc3ygL28kSa8Nen",
-    "name" : "VCS_UI_Multi_Asset_DSS",
-    "type" : "DSS",
+    "id" : "1JIL7IggwHykE92zYwUmE7",
+    "name" : "VCS_UI_Multi_Asset_DRS",
+    "type" : "DRS",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0I000000000078"
+        "repoHandle" : "01000Q0G00000000007O"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "This is DRS for Pod Certification",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
