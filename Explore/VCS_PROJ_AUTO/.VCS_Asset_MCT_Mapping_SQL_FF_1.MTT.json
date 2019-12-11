@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "6V8emEwogsAiGcQIkKK3U4",
+    "id" : "5fQgmi6oBk8isBqbrQbxIs",
     "name" : "VCS_Asset_MCT_Mapping_SQL_FF_1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0Z0000000000D8"
+        "repoHandle" : "01000Q0Z0000000000DB"
       },
       "contextAttributes" : [ {
         "name" : "id",
