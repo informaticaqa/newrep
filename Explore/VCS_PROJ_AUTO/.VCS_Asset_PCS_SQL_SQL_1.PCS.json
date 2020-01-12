@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "9yFQbV7eJuadeYONBdvfm4",
+    "id" : "bFP0lDV3UEwk27LTkO6iYt",
     "name" : "VCS_Asset_PCS_SQL_SQL_1",
     "type" : "PCS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100310K00000000000B"
+        "repoHandle" : "01005E0K000000000006"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4bXLBdpSszclYDyOzLNPmk",
-    "name" : "TMS47W1264001",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01003125000000000005"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "5WDinJ8N3M7fWg5vGeWyAX",
+    "id" : "87HadqRveSJcig20imMuuw",
     "name" : "SQL_Server_PodCertification",
     "type" : "Connection",
     "metadata" : {
@@ -53,13 +33,33 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100310B0000000007SE"
+        "repoHandle" : "01005E0B000000000A2Y"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "SQL Server connection for Pod Certification Automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "2jwbGpnbeeqeOL6I9aWWyI",
+    "name" : "TMS47W1264001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01005E25000000000008"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"
