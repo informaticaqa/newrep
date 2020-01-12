@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "hJ1qG4uVk0NeoqHYjJp1eT",
+    "id" : "8lxSSinnJ0MfgrpKs5XWqt",
     "name" : "VCS_Asset_DRS_SQL_FF_1",
     "type" : "DRS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100310G0000000003UU"
+        "repoHandle" : "01005E0G0000000003BP"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "j8AYCjaaY4lhQQD9EyPdMC",
-    "name" : "FF_PodCertification",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100310B0000000007SF"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Flat File connection for Pod Certification Automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "5WDinJ8N3M7fWg5vGeWyAX",
+    "id" : "87HadqRveSJcig20imMuuw",
     "name" : "SQL_Server_PodCertification",
     "type" : "Connection",
     "metadata" : {
@@ -53,11 +33,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100310B0000000007SE"
+        "repoHandle" : "01005E0B000000000A2Y"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "SQL Server connection for Pod Certification Automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "8dZv845FBmzd6ZLYNRWGG5",
+    "name" : "FF_PodCertification",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01005E0B000000000A2Z"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Flat File connection for Pod Certification Automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
