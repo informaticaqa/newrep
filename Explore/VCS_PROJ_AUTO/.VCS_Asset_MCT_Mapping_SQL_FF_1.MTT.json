@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "ap9YIxdXfuSgzTpxgj3m4p",
+    "id" : "knkgcYOY88QcYtR5UcphMY",
     "name" : "VCS_Asset_MCT_Mapping_SQL_FF_1",
     "type" : "MTT",
     "metadata" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0104OG0Z00000000000U"
+        "repoHandle" : "0104OG0Z000000000014"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Updated Desc",
+        "description" : "Uses PC_Mapping_SQL_FF_1\r\n",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,26 +24,6 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "dM2jG5BLpMbgyjDFjGOCsP",
-    "name" : "VCS_Asset_Mapping_SQL_FF_1",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0104OG1700000000000U"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Pod Certification Task: Mapping has a src and a target. ",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/VCS_PROJ_AUTO"
-  }, {
     "id" : "5cHtAj3OZKYhzKW3TubQ8O",
     "name" : "SQL_Server_PodCertification",
     "type" : "Connection",
@@ -83,6 +63,26 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "5algyG0GiQEd62QDHlGEYi",
+    "name" : "VCS_Asset_Mapping_SQL_FF_1",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104OG17000000000014"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Pod Certification Task: Mapping has a src and a target. ",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/VCS_PROJ_AUTO"
   }, {
     "id" : "lSHTdlGosE3jf9r7Y3Lxu5",
     "name" : "TMS47W1264001",
