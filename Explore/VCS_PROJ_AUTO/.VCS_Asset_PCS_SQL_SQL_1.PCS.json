@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "iNkAjzHsVq6ifT5vahqWQ8",
+    "id" : "71v4TFQlYq6jglstyvOZcQ",
     "name" : "VCS_Asset_PCS_SQL_SQL_1",
     "type" : "PCS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01002U0K000000000006"
+        "repoHandle" : "0100180K00000000000V"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "2M7X50KrTcpcdhnA4KDyeU",
+    "id" : "6vSUcknarnSgNrIWTwbzUD",
     "name" : "SQL_Server_PodCertification",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01002U0B00000000001R"
+        "repoHandle" : "0100180B00000000001Y"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "1Fwb0y9aAVYgS0fz73x8wL",
+    "id" : "0WcTUPB7feHgMNGHnMh1i8",
     "name" : "TMS47W1264001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01002U25000000000008"
+        "repoHandle" : "01001825000000000007"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
