@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "aXouQ3WW3yhb7XR1glffiu",
+    "name" : "VCS_MultiRecUnlink",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
