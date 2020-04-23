@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5y93SkHpPRmlF2I0ntn5C7",
+    "id" : "5wlQZ2xyOSPlIAPwU6T8kb",
     "name" : "VCS_DRS_AUTO",
     "type" : "DRS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100310G00000000046J"
+        "repoHandle" : "0100310G00000000046K"
       },
       "contextAttributes" : [ {
         "name" : "id",
