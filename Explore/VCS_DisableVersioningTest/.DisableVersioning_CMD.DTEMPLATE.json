@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0WYXGWqrEIQkTWeRBRtuEE",
+    "id" : "1gAw0RD8NYehpmZv2O83uv",
     "name" : "DisableVersioning_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0101WC170000000006GE"
+        "repoHandle" : "0101WC17000000000DCN"
       },
       "contextAttributes" : [ {
         "name" : "id",
