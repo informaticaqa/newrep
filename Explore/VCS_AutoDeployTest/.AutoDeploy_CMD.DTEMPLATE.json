@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8zzTd4MSxS1bqiwSsu6mep",
+    "id" : "0qCwmvYnvcykOZdgcfF68A",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010GLS17000000000BEV"
+        "repoHandle" : "010GLS17000000000KPU"
       },
       "contextAttributes" : [ {
         "name" : "id",
