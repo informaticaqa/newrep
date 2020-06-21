@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2BYwZijN069kJw5MDPVpIV",
+    "id" : "6KIbf9nW8n6lOJR8lQTo4F",
     "name" : "MultiUnlink_DSS",
     "type" : "DSS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "00258W0I000000001099"
+        "repoHandle" : "00258W0I0000000010CT"
       },
       "contextAttributes" : [ {
         "name" : "id",
