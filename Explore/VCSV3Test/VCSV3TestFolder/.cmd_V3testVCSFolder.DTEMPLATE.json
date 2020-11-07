@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2buFz11Xk8VhHJlSRpc0MN",
+    "id" : "1LL5xgaa6pthGSXrNZpL4m",
     "name" : "cmd_V3testVCSFolder",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0101WC17000000000KWK"
+        "repoHandle" : "0101WC17000000000KXY"
       },
       "contextAttributes" : [ {
         "name" : "id",
