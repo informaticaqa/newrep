@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "hx6heGMV5WrlxUbg0DyNQL",
+    "id" : "5WbkMThqHnUdKkTzmZO8se",
     "name" : "cmd_VCSPullV3Test",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "00258W170000000014HH"
+        "repoHandle" : "00258W170000000014J7"
       },
       "contextAttributes" : [ {
         "name" : "id",
